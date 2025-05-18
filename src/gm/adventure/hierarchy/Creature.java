@@ -7,3 +7,4 @@ public interface Creature extends Attackable {
     public Rank rank();
     public int maxHealth();
 }
+e
